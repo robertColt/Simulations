@@ -1,0 +1,11 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(277): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[13]'
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(277): warning C4024: 'sprintf': different types for formal and actual parameter 1
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(278): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[14]'
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(278): warning C4024: 'sprintf': different types for formal and actual parameter 1
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(280): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[13]'
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(280): warning C4024: 'fopen': different types for formal and actual parameter 1
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(281): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[14]'
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment4\percolation triangle\main.c(281): warning C4024: 'fopen': different types for formal and actual parameter 1
+  Percolation Triangle.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment4\Debug\Percolation Triangle.exe
+  Percolation Triangle.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment4\Debug\Percolation Triangle.pdb (Full PDB)

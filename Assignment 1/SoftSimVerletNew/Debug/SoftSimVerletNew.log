@@ -1,0 +1,4 @@
+﻿  initializer.c
+c:\users\user\documents\visual studio 2015\projects\c++\simulationmethods\assignment 1\softsimverletnew\initializer.c(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SoftSimVerletNew.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment 1\Debug\SoftSimVerletNew.exe
+  SoftSimVerletNew.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment 1\Debug\SoftSimVerletNew.pdb (Full PDB)

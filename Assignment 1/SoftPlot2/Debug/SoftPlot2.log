@@ -1,0 +1,7 @@
+﻿  globaldata.cpp
+c:\users\user\desktop\simulation methods\assig.1\softplot\softplot\globaldata.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\simulation methods\assig.1\softplot\softplot\globaldata.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\simulation methods\assig.1\softplot\softplot\globaldata.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\user\desktop\simulation methods\assig.1\softplot\softplot\globaldata.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+  SoftPlot2.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment4\Debug\SoftPlot2.exe
+  SoftPlot2.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\C++\SimulationMethods\Assignment4\Debug\SoftPlot2.pdb (Full PDB)
